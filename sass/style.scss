@@ -1,0 +1,31 @@
+@import 'buttons';
+@import 'utilities';
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 16px;
+    overflow-x: hidden;
+
+}
+
+nav{
+    z-index: 6;
+    .navbar-brand{
+        margin-left: 4%;
+    }
+
+    .nav-link{
+        color: hsl(228, 39%, 23%);
+        
+       
+        }
+
+    .nav-link:hover{
+        color: rgb(150, 150, 144);
+        }
+
+}

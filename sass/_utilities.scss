@@ -1,0 +1,134 @@
+.container{
+    .tablet{
+        position: absolute;
+        bottom: 100px;
+        
+    }
+    .illustrate{
+        position: relative;
+    }
+    .bring{
+        color: hsl(228, 39%, 23%);
+        font-weight: bolder;
+    }
+    .manage{
+        position: relative;
+        z-index: 1;
+    }
+}
+
+.container2{
+   
+    .whats{
+    color: hsl(228, 39%, 23%);
+    font-weight: bolder;
+}
+.see{
+    margin-left: 108px;
+}
+.tab{
+    @extend.tablet;
+    bottom: -330px;
+    left: -300px;
+    position: relative;
+    width: 100%;
+
+}
+
+}
+span{
+    @extend.bring;
+    font-size: 20px;
+}
+
+.container3{
+    .anisha{
+        color: hsl(228, 39%, 23%);
+        font-weight: bolder;
+        
+        
+    }
+   .li{
+    @extend.anisha
+   }
+  .carobac{
+        background-color: whitesmoke;
+        margin: 12px;
+        
+   }
+    .ani{
+        position: relative;
+        bottom: 13%;      
+    }
+}
+.alone{
+    padding-bottom: 35px
+}
+
+.container4{
+  .get{
+      margin-top: 5%;
+      margin-bottom: 13%;
+     
+  }
+}
+.simplify{
+    background-color: hsl(12, 93%, 58%);
+    height: 30%;
+  
+}
+.simple{
+    bottom: 150px;
+    
+    .btnsecpad{
+        padding-left: 350px;
+    }
+
+    .yourteam{
+        font-weight: bolder;
+        width: 80%;
+        text-align: left;
+        position: absolute;
+        left: 60px;
+        font-size: 40px;
+    }
+ }
+
+ .icons{
+        justify-content: space-between;
+        width: 50%;
+       
+        #icon:hover{
+            
+                fill:hsl(12, 93%, 58%);
+               }
+            
+        }
+
+ #email{
+     padding: 3%;
+     border-radius: 40px;
+     border: none;
+     margin-right: 7px;
+
+ }
+ .small{
+     width: 70px;
+     box-shadow: none;
+ }
+ .go{
+     width: 200%;
+     position: relative;
+     right: 90px;
+     
+     .footer{
+        color: rgb(161, 156, 156);
+        margin-top: 62px;
+    }
+
+ }
+ .footerwrite:hover{
+    color: hsl(12, 93%, 58%);
+    cursor: pointer;
+
+ }

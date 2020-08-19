@@ -1,0 +1,186 @@
+.btn, .btn-p {
+  background-color: #f25f3a;
+  border-radius: 30px;
+  width: 150px;
+  box-shadow: 0 8px 20px -6px #f88568;
+  padding: 10px;
+  font-weight: bolder;
+  z-index: 3;
+}
+
+.btn:hover, .btn-p:hover {
+  background-color: #f88568;
+}
+
+.btn-p {
+  width: 14%;
+  font-size: 16px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: none;
+}
+
+.btn-p:hover {
+  background-color: #f25f3a;
+}
+
+.btnsec {
+  color: #f25f3a;
+  font-weight: bolder;
+  background-color: white;
+}
+
+.btnsec:hover {
+  color: #f88568;
+  background-color: white;
+}
+
+.container .tablet, .container .container2 .tab, .container2 .container .tab {
+  position: absolute;
+  bottom: 100px;
+}
+
+.container .illustrate {
+  position: relative;
+}
+
+.container .bring, .container span {
+  color: #242d52;
+  font-weight: bolder;
+}
+
+.container .manage {
+  position: relative;
+  z-index: 1;
+}
+
+.container2 .whats {
+  color: #242d52;
+  font-weight: bolder;
+}
+
+.container2 .see {
+  margin-left: 108px;
+}
+
+.container2 .tab {
+  bottom: -330px;
+  left: -300px;
+  position: relative;
+  width: 100%;
+}
+
+span {
+  font-size: 20px;
+}
+
+.container3 .anisha, .container3 .li {
+  color: #242d52;
+  font-weight: bolder;
+}
+
+.container3 .carobac {
+  background-color: whitesmoke;
+  margin: 12px;
+}
+
+.container3 .ani {
+  position: relative;
+  bottom: 13%;
+}
+
+.alone {
+  padding-bottom: 35px;
+}
+
+.container4 .get {
+  margin-top: 5%;
+  margin-bottom: 13%;
+}
+
+.simplify {
+  background-color: #f85830;
+  height: 30%;
+}
+
+.simple {
+  bottom: 150px;
+}
+
+.simple .btnsecpad {
+  padding-left: 350px;
+}
+
+.simple .yourteam {
+  font-weight: bolder;
+  width: 80%;
+  text-align: left;
+  position: absolute;
+  left: 60px;
+  font-size: 40px;
+}
+
+.icons {
+  justify-content: space-between;
+  width: 50%;
+}
+
+.icons #icon:hover {
+  fill: #f85830;
+}
+
+#email {
+  padding: 3%;
+  border-radius: 40px;
+  border: none;
+  margin-right: 7px;
+}
+
+.small {
+  width: 70px;
+  box-shadow: none;
+}
+
+.go {
+  width: 200%;
+  position: relative;
+  right: 90px;
+}
+
+.go .footer {
+  color: #a19c9c;
+  margin-top: 62px;
+}
+
+.footerwrite:hover {
+  color: #f85830;
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+nav {
+  z-index: 6;
+}
+
+nav .navbar-brand {
+  margin-left: 4%;
+}
+
+nav .nav-link {
+  color: #242d52;
+}
+
+nav .nav-link:hover {
+  color: #969690;
+}
