@@ -58,7 +58,9 @@ span{
    }
     .ani{
         position: relative;
-        bottom: 13%;      
+        z-index: 6;
+        bottom: 33px;
+           
     }
 }
 .alone{
