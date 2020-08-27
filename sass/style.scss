@@ -1,5 +1,6 @@
 @import 'buttons';
 @import 'utilities';
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -9,7 +10,7 @@ body{
     font-family: 'Be Vietnam', sans-serif;
     font-size: 16px;
     overflow-x: hidden;
-
+    color: black;
 }
 
 nav{
@@ -29,3 +30,4 @@ nav{
         }
 
 }
+@import 'mobile';
