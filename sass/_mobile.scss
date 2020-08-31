@@ -1,3 +1,10 @@
+// @media only screen and (max-width: 700px) {
+//   body {
+    
+//     overflow-x: hidden;
+    
+//   }
+// }
 @media only screen and (max-width: 700px) {
   nav {
     align-content: justify;
@@ -9,7 +16,7 @@
 
 @media only screen and (max-width: 700px) {
   .tablet{
-   width: 200%;
+   width: 100%;
    position: absolute;
     bottom: 900px;
    left: 200px;
@@ -18,9 +25,10 @@
 
    
      @media only screen and (max-width: 700px) {
-      .ill{
+      .illustrate{
         position: relative;
         z-index: 10;
+        width: 150%;
         bottom: 350px;
          }
 }
@@ -29,7 +37,7 @@
 @media only screen and (max-width: 700px) {
   .bring {
     position: relative;
-    top: 150%;
+    top: 120%;
     text-align: center;
     width: 130%;
     overflow: hidden;
@@ -41,7 +49,8 @@
 @media only screen and (max-width: 700px) {
   .manage {
     position: relative;
-    top: 150%;
+    top: 120%;
+    font-size: 120%;
     text-align: center;
     width: 130%;
     overflow: hidden;
@@ -51,15 +60,15 @@
 @media only screen and (max-width: 700px) {
   .first button {
     position: absolute;
-    top: 250%;
-    left: 150px;
+    top: 215%;
+    left: 153px;
 
   }
 }
 @media only screen and (max-width: 700px) {
   .whats {
     position: relative;
-    top: 10%;
+    top: 50%;
     left: 10%;
     text-align: center;
     font-size: 200%;
@@ -69,9 +78,208 @@
 @media only screen and (max-width: 700px) {
   .provides {
     position: relative;
-    top: 10%;
-    left: 10%;
+    top: 52%;
+    left: 5%;
+    font-size: 120%;
     text-align: center;
-    width: 350px;
+    width: 400px;
   }
 }
+@media only screen and (max-width: 700px) {
+  .second-button {
+    position: absolute;
+    top: 25%;
+    left: 1%;
+    text-align: center;
+    width: 20%;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .tracker {
+    position: absolute;
+    top: 27%;
+    padding: 2%;
+    left: 1%;
+    border-radius: 4px;
+    background-color: wheat;
+    text-align: center;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .how{
+    position: absolute;
+    top: 37%;
+    left: -30%;
+    width: 460px;
+    line-height: 1.5;
+    font-size: 120%;
+  
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .third-button {
+    position: absolute;
+    top: 68%;
+    left: 1%;
+    text-align: center;
+    width: 20%;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .built {
+    position: absolute;
+    top: 70%;
+    padding: 2%;
+    left: -5%;
+    border-radius: 4px;
+    background-color: wheat;
+    text-align: center;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .internal{
+    position: absolute;
+    top: 83%;
+    left: -30%;
+    width: 460px;
+    line-height: 1.5;
+    font-size: 120%;
+  
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .fourth-button {
+    position: absolute;
+    top: 115%;
+    left: 1%;
+    text-align: center;
+    width: 20%;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .need {
+    position: absolute;
+    top: 116%;
+    padding: 2%;
+    border-radius: 4px;
+    background-color: wheat;
+    text-align: center;
+    margin-bottom: 200px;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .jumping{
+    position: relative;
+    top: 117%;
+    left: -37%;
+    width: 460px;
+    line-height: 1.5;
+    font-size: 120%;
+    margin-bottom: 400px;
+  
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .said {
+    position: relative;
+    top: 28%;
+    left: -7%;
+    text-align: center;
+    width: 400px;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .carousel {
+    position: relative;
+    top: 30%;
+    text-align: center;
+    width: 490px;
+    margin-bottom: 450px;
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .alone{
+    position: relative;
+    top: 130%;
+    text-align: center;
+    width: 500px;
+    height: 773px;
+
+   
+  }
+}
+@media only screen and (max-width: 700px) {
+  .fifth-button {
+    position: relative;
+  left: 40%;
+   
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .simplify{
+    height: 500px;
+    padding-left: 4px;
+  }
+}
+  @media only screen and (max-width: 700px) {
+    .works{
+    top: -204px ;
+    text-align: justify;
+   
+    }
+  }
+  @media only screen and (max-width: 700px) {
+    .btnsecpad{
+  left: -35%;
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    .footer{
+     width: 162%;
+     overflow: hidden;
+   
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    .lasttag{
+     position: relative;
+   left: 17%;
+    }
+  }
+  @media only screen and (max-width: 700px) {
+    .allitems{
+      font-size: 40px;
+     position: relative;
+   left: 17%;
+    }
+  }
+  @media only screen and (max-width: 700px) {
+    .icons{
+      font-size: 40px;
+     position: relative;
+   left: 17%;
+  justify-content: space-around;
+    }
+  }
+  
